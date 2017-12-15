@@ -1,4 +1,4 @@
-Copyright 2017 ahahn94
+Copyright 2017 ahahn94  
 This program is published under the GNU GPL v.2
 
 # About
