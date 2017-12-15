@@ -9,9 +9,11 @@ AutoripFLAC is an automatic audio cd to flac ripper with support for multiple de
 - abcde
 - libflac
 ## Install Instructions
-To install, just run  
-` install.sh `  
+To install, just run ` ./install.sh `.  
 Then, set AutoripFLAC as the default application for audio cds.  
+
+## Remove Instructions
+To remove run `./remove.sh`.
 
 # Usage
 The system will tell the program which device to use and start the ripping process automatically after an audio CD has been detected in the drive.   
