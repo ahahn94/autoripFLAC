@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=AutoripFLAC
+Exec=gnome-terminal -e "/usr/bin/autoripFlac.sh %f"
+Categories=Media;
+Terminal=true
