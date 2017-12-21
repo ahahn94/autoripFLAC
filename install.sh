@@ -1,5 +1,4 @@
 #!/bin/bash
-mkdir ~/Ripping #Create directory for Ripping in your home directory
 mkdir /usr/share/autoripFlac #Create program directory
 sudo cp autoripFlac.sh /usr/share/autoripFlac/ #Copy the script
 sudo cp autoripflac.desktop /usr/share/applications/ #Copy the application shortcut
